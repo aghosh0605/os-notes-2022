@@ -16,7 +16,7 @@ Operating System Notes created on 2022
 12. [Segmentation in Operating System (OS)](https://www.scaler.com/topics/operating-system/segmentation-in-os/)
 13. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
 14. [File Access Methods in Operating System – Sequential, Direct & Index Methods](https://www.electronicsmind.com/file-access-methods-in-operating-system/)
-15. [https://www.tutorialandexample.com/file-allocation-methods](https://www.tutorialandexample.com/file-allocation-methods)
+15. [File Allocation Methods in Operating System](https://www.tutorialandexample.com/file-allocation-methods)
 16. [Evolution of Operating Systems](https://github.com/aghosh0605/os-notes-2022/blob/main/CT1/Unit%201%20notes.pdf)
 17. [Disk Scheduling Algorithms in Operating Systems (OS) | Core CS](https://workat.tech/core-cs/tutorial/disk-scheduling-algorithms-in-operating-system-os-ope5ahnn6mhh)
 18. [Process scheduling algorithms in the Operating System](https://afteracademy.com/blog/process-scheduling-algorithms-in-the-operating-system)
