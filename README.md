@@ -17,4 +17,4 @@ Operating System Notes created on 2022
 13. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
 14. [File Access Methods in Operating System – Sequential, Direct & Index Methods](https://www.electronicsmind.com/file-access-methods-in-operating-system/)
 16. [https://www.tutorialandexample.com/file-allocation-methods](https://www.tutorialandexample.com/file-allocation-methods)
-17. Evolution of Operating Systems From: OS-notes-unit1
+17. [Evolution of Operating Systems](https://github.com/aghosh0605/os-notes-2022/blob/main/CT1/Unit%201%20notes.pdf)
